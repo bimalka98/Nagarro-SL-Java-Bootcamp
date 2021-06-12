@@ -7,7 +7,6 @@ public class MazepathFourDirection {
 
 	}
 	public static void printPath(int sr, int sc, int er, int ec, String path) {
-		if(sr )
 	}
 
 }
