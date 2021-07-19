@@ -1,5 +1,7 @@
 # Nagarro SL Java Bootcamp ❄
 
+[*Certificate of completion - Bimalka Piyaruwan Thalagala*](https://nbviewer.jupyter.org/github/bimalka98/Nagarro-SL-Java-Bootcamp/blob/main/Bimalka%20Piyaruwan%20Thalagala.pdf)
+
 *This repository contains all the codes related to the ***Java Bootcamp*** conducted in Sri-Lanka by Nagarro (Private) Limited, a subsidiary of Nagarro SE a global leader in digital product engineering.*
 *This online bootcamp was completely free of charge for all participants and included 40 hours of hands on and real-world learning opportunity spread across 15 sessions for the benefit of young IT professionals.*
 
